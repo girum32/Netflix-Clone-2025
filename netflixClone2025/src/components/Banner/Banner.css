@@ -1,0 +1,6 @@
+.banner {
+  background-size: cover;
+  background-image: url("https://image.tmdb.org/t/p/original${movie?.backdrop_path}");
+  background-position: center;
+  background-repeat: no-repeat;
+}
